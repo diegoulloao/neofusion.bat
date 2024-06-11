@@ -22,7 +22,7 @@
 
 # Installation 📦
 
-Check the [adding additional themes](https://github.com/sharkdp/bat?tab=readme-ov-file#adding-new-themes) bat documentation
+Check [adding additional themes](https://github.com/sharkdp/bat?tab=readme-ov-file#adding-new-themes) in the bat documentation
 
 # Ports ⭐
 
